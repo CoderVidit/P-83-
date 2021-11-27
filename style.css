@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+canvas{
+    border-style:ridge;
+    border-radius: 9px;
+    border-width: 30px;
+}
+h1{
+    color:red;
+}
+button{
+    background-color: rgb(84, 209, 84);
+    border:0px;
+    height:50px;
+    width:200px;
+    font-size: 15px;
+    border-radius: 10px;
+}
